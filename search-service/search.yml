@@ -1,0 +1,5 @@
+
+dbsettings:
+  url: localhost:8090/search-service/general
+  username: sreeni
+  password: sreeni
