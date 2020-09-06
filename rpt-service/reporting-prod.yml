@@ -1,0 +1,4 @@
+dbsettings:
+  url: localhost:8090/rpt-service/prod
+  username: sreeni
+  password: sreeni
