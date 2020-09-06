@@ -1,0 +1,8 @@
+service1:
+  name: serice1
+  url: dbsource.com
+  timeout: 10
+dbsettings:
+  url: localhost:8090
+  username: sreeni
+  password: sreeni
