@@ -1,0 +1,6 @@
+
+
+dbsettings:
+  url: localhost:8090/search-service/qa
+  username: sreeni
+  password: sreeni
